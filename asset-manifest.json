@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/The_Shoppies/static/css/main.26db0bdb.chunk.css",
-    "main.js": "/The_Shoppies/static/js/main.a253c67e.chunk.js",
-    "main.js.map": "/The_Shoppies/static/js/main.a253c67e.chunk.js.map",
+    "main.js": "/The_Shoppies/static/js/main.3c830277.chunk.js",
+    "main.js.map": "/The_Shoppies/static/js/main.3c830277.chunk.js.map",
     "runtime-main.js": "/The_Shoppies/static/js/runtime-main.497ffe87.js",
     "runtime-main.js.map": "/The_Shoppies/static/js/runtime-main.497ffe87.js.map",
     "static/css/2.d4e7eff5.chunk.css": "/The_Shoppies/static/css/2.d4e7eff5.chunk.css",
     "static/js/2.4315df5a.chunk.js": "/The_Shoppies/static/js/2.4315df5a.chunk.js",
     "static/js/2.4315df5a.chunk.js.map": "/The_Shoppies/static/js/2.4315df5a.chunk.js.map",
     "index.html": "/The_Shoppies/index.html",
-    "precache-manifest.ebe31e8b9d497d8bebda78ff89486b03.js": "/The_Shoppies/precache-manifest.ebe31e8b9d497d8bebda78ff89486b03.js",
+    "precache-manifest.49de316dc7ff4aeb067648f6816ea177.js": "/The_Shoppies/precache-manifest.49de316dc7ff4aeb067648f6816ea177.js",
     "service-worker.js": "/The_Shoppies/service-worker.js",
     "static/css/2.d4e7eff5.chunk.css.map": "/The_Shoppies/static/css/2.d4e7eff5.chunk.css.map",
     "static/css/main.26db0bdb.chunk.css.map": "/The_Shoppies/static/css/main.26db0bdb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d4e7eff5.chunk.css",
     "static/js/2.4315df5a.chunk.js",
     "static/css/main.26db0bdb.chunk.css",
-    "static/js/main.a253c67e.chunk.js"
+    "static/js/main.3c830277.chunk.js"
   ]
 }
